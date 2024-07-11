@@ -1,1 +1,1 @@
-![whiteboard_exported_image](/Users/taoliu27/Downloads/whiteboard_exported_image.png)
+![whiteboard_exported_image](https://github.com/LiuTianjie/LiuTianjie/blob/main/whiteboard_exported_image.png?raw=true)
